@@ -1142,6 +1142,11 @@ CVPR 2021 中奖群已成立！已经收录的同学，可以添加微信：**CV
 - Paper: https://arxiv.org/abs/2104.04163
 - Code: None
 
+**Lifelong Person Re-Identification via Adaptive Knowledge Accumulation**
+
+- Paper: https://arxiv.org/abs/2103.12462
+- Code: https://github.com/TPCD/LifelongReID
+- 
 <a name="Person-Search"></a>
 
 # 行人搜索(Person Search)
